@@ -14,7 +14,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MIDJOURNEYY](https://www.midjourney.com/app/)
+- [MIDJOURNEY](https://www.midjourney.com/app/)
 - [ELEVENLABS](https://beta.elevenlabs.io/)
 
 ## ✨ Como foi feito ?
