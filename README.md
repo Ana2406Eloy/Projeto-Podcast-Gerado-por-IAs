@@ -25,7 +25,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 📚 Materiais
 
-- [Notion Template](https://www.notion.so/2a680276fb8c80d19561fd94f2a547a6?source=copy_lin)
+- [Prompts - Notion](https://www.notion.so/2a680276fb8c80d19561fd94f2a547a6?source=copy_lin)
 
 ## 🛠️ Instruções de execução
 
